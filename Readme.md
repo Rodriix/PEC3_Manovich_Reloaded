@@ -35,6 +35,7 @@ Si aun no te has dado cuenta de la hibridación ahora te pongo en contexto.
 Pokemon GO se plantea como un juego que ayude a que las personas salgan de sus casas y puedan disfrutar de un entretenimiento el cual haga ameno esas caminatas, ahí ya como podemos ver se asocian los conceptos de videojuego y ejercitarse. 
 En el sector podemos ver la existencia de aplicaciones enfocados en estos términos pero ningunos tan bien planteados.
 Como ya he mencionado las calles del mundo real salen reflejadas en Pokémon GO en forma de mapa, además de esto existen unos objetos con los que podemos interactuar llamadas Pokeparadas, y ¿Qué son las Pokeparadas?, se tratan puntos de interés los cuales marcaban Museos, lugares históricos, monumentos entre otros, siendo este otro punto en el que Pokémon GO combina el ocio con el aprendizaje 
+![395539_1067716](https://user-images.githubusercontent.com/121123173/208977336-bdb3d639-2aaf-483c-9a7b-e4c3b67a36ea.jpg)
 
 ###  Referencias y Bibliografía
 
