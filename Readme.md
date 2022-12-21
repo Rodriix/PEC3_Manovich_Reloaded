@@ -1,6 +1,7 @@
-﻿#   Visionando el futuro con las gafas de Manovich: Redescubriendo la hibridación
+#   Visionando el futuro con las gafas de Manovich: Redescubriendo la hibridación
 
-![Encabezado by D.Sebastian](https://lh6.googleusercontent.com/8ZtMX2AjO-GfN2RNsao31iLdpifdmFoM-hXDWvEOEi2sQh4kbyCB7muoZ1_1oaH1CugIlPFT_UKTY3bweMTrWL-lc6V1aD_0s_F9XaXTPU3DrU5hRBAVodnigUojUY6BizMpQsuXzPfXtoV7y98WeA=w1280)
+![Encabezado](https://user-images.githubusercontent.com/121123173/208976592-266c60c9-fa12-45a6-ab03-a492d584083b.jpg)
+[Encabezado by D.Sebastian]
 > Autor: Sebastian Rodrigo Duran Ponte
 > Cultura Digital 
 >19.12.22
@@ -18,10 +19,10 @@ Durante los últimos años se han estado desarrollando distintos tipos de IA los
 Hablemos de las característica de Cre8tiveAI, en el caso de una de sus herramientas ([Anime Art](https://es.cre8tiveai.com/aap)) más utilizadas, la teoría es simple, coges una imagen y la subes a su web donde esta en pocos segundos será capaz de generarte la misma imagen pero estilo anime, un estilo japones de dibujo muy particular. Para que podamos ver el ejemplo, he cogido una imagen de una ciudad  y hare que la rediseñe.
 
 >Denia, Alicante
-![Denia, Alicante](https://lh4.googleusercontent.com/jDQxQ9u7AA8r-PZFZ8XvhoWzIOTFPNfkqDsX4o5tbwbfRaHkJ4Q_gllY_JzMHlE0GwHt9n94LGtC8x92MMBJc-TITlaVKJRaVWBybBCMxAeVNBxC-gsEISdyRVByrh4v73sHcRHkOplJq88E2mq9T2pRJjPYp8WSf66PC2vKQLuLTnStLpLZCwXVgOuR_dKM=w1280)
+![ML00497](https://user-images.githubusercontent.com/121123173/208976668-c3d2e05a-7c79-49e9-9c2b-2452a58a3260.jpg)
 
 >Anime Denia, Alicante
-![Anime Denia, Alicante](https://lh3.googleusercontent.com/bGUcpAl8u6n4HJhfW5WmsTLpr-nmH2T4D8BzRls_B_B7938aDsaRWVwwznTjCKG9OczXqQdGz3IeXZTiwgmuQDdfJ76xQu7K-E53KoDEe5HnOO-OOG94ZhFgp-nJZff-fw_Vm9lc7PgMTm4bwS57B_MGwAR44qe0gWyiSbBgvRATsdC4cA8jF0RKXe4q7dx9=w1280)
+![6db75683abf54764b19e4e3064f7f8d9_02_wm](https://user-images.githubusercontent.com/121123173/208976717-ae7a8a1f-4c7d-4643-a7eb-350b6b3acf76.png)
 
 Como podemos ver los cambios quizás no son tan notorios pero si no tuviésemos la imagen real veríamos una ilustración que hecha por una persona, y ahí esta otro punto muy importante sobre las IA, nos encontramos en un momento en el cual ya no podemos saber que es lo que esta hecho por una persona o por una inteligencia artificial, en la industria actual las IA, las encontramos prácticamente en todos lados siendo algunos ejemplos, Apple (Siri), Amazon (Alexa), Tesla (Conducción automática) entre otras que seguramente a día de hoy no conocemos pero existen dentro de las empresas.
 Y ¿Cómo se desarrollan estas AI? Esto es una pregunta algo compleja pero en para resumirlo diremos que una AI es un como una persona que esta programada para aprender de sus errores, a diferencia de nosotros la IA en milésimas de segundo puede aprender millones de cosas, y este es el principio que tienen todas estas, seguramente las AI que actualmente están a nuestra disposición han pasado años "aprendiendo" hasta finalmente desempeñar la función deseada. 
@@ -41,6 +42,15 @@ Como ya he mencionado las calles del mundo real salen reflejadas en Pokémon GO 
 * Imagen encabezado Hecha por Sebastian Rodrigo Duran Ponte
 * Información extraída de Pokémon GO [WikiDex](https://www.wikidex.net/wiki/Pok%C3%A9mon_GO)
 * Información   [cre8tiveAI](https://ja.wikipedia.org/wiki/ラディウス・ファイブ)
+
+
+
+
+
+
+
+
+
 
 
 
